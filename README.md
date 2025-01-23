@@ -1,4 +1,4 @@
-Wesnoth External Gold Hack
+##Wesnoth External Gold Hack
 Referenced in https://gamehacking.academy/lesson/3/2.
 
 An external memory hack for Wesnoth 1.14.9 that modifies the player's gold.
